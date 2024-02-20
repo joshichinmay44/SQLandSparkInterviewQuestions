@@ -1,3 +1,3 @@
-# SQ LProblems By Ankit Bansal
+# SQL Problems By Ankit Bansal
 
-This repositopry contains all solutions to problems discussed by Ankit Bansal
+This repositpry contains all solutions to problems discussed by Ankit Bansal
